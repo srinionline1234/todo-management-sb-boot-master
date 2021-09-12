@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class TodoManagementSpringBoot2ApplicationTests {
 
 	@Test
-	public vouid contextLoads() {
+	public void contextLoads() {
 	}
 
 }
